@@ -1,0 +1,323 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Rojohn",
+      "surnames": "Ibana Bañares",
+      "title": "Aspiring Full Stack Developer",
+      "description": "Soy una persona con gran **interés** en el **sector tecnológico**, siendo más específicos en el **sector** de la **programación**. Conocí la programación en la etapa final del instituto, y desde entonces sentí ese gusanillo por la programación. No obstante, ese interés se convirtió en pasión a mediados de 2023, donde me enamoré completamente de la programación, y desde entonces he invertido una considerable cantidad de tiempo y esfuerzo en **aprender sobre la lógica** y los **fundamentos de la programación**.\n\nMi **objetivo** es llegar a ser **Full-Stack Developer**, así que trato de reforzar mis **conocimientos** de **HTML** y **CSS** a la par que aprendo **JavaScript**. Paralelamente, estoy estudiando también el lenguaje **C**, teniendo sólidos conocimientos en la estructuración de código y brindándome fundamentos de programación que me facilitan el aprender otros lenguajes, como **C++**, **Python** o **Rust**.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/d61252af-e20e-4d64-8eb4-6b662c32aae0_ribana-b.png",
+        "alt": "ribana-b.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
+    }
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "42 Cursus",
+          "URL": "https://github.com/SrRecursive/42Malaga"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-04-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "Makefile",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "MiniProjects",
+          "URL": "https://github.com/SrRecursive/ForFun"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-05-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Makefile",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "TL",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Estudiante",
+        "startDate": "2023-04-01",
+        "institution": {
+          "name": "42 Málaga",
+          "description": "En marzo de 2023 me presenté a dos pruebas de acceso: la primera online y la segunda presencial y conocida como Piscina con una duración de 26 días donde se realizan proyectos. En abril de 2023 recibí la notificación de que fui seleccionado como estudiante.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/6d7d5d23-a8d3-4d08-8481-afe313b720fb_42_logo.svg",
+            "alt": "42_logo.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Ingeniería Telemática",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "Universidad de Málaga",
+          "description": "Debido a mi interés en el sector tecnológico, opté por introducirme en esta rama de Ingeniería de Telecomunicaciones, donde he aprendido lógica matemática y conceptos de señales.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/8f5b0fb6-21eb-44ae-8c9f-372451f019dc_unnamed.jpg",
+            "alt": "unnamed.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/ribanab/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/SrRecursive",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "rojohnibana@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "611050232",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "QA & Testing Engineer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Adobe Photoshop",
+        "type": "technology"
+      },
+      {
+        "name": "C",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Github",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      }
+    ],
+    "projects": [
+      {
+        "name": "42 Cursus"
+      },
+      {
+        "name": "MiniProjects"
+      }
+    ]
+  }
+}
