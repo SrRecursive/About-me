@@ -20,33 +20,16 @@
         "region": "Andalucía",
         "municipality": "Málaga"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://github.com/SrRecursive"
+      }
+    ]
   },
   "experience": {
     "projects": [
-      {
-        "details": {
-          "name": "42 Cursus",
-          "URL": "https://github.com/SrRecursive/42Malaga"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-04-01",
-            "competences": [
-              {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "Makefile",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "details": {
           "name": "MiniProjects",
@@ -72,6 +55,29 @@
               },
               {
                 "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "42 Cursus",
+          "URL": "https://github.com/SrRecursive/42Malaga"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-04-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "Makefile",
                 "type": "technology"
               }
             ]
@@ -159,11 +165,7 @@
         "startDate": "2023-04-01",
         "institution": {
           "name": "42 Málaga",
-          "description": "En marzo de 2023 me presenté a dos pruebas de acceso: la primera online y la segunda presencial y conocida como Piscina con una duración de 26 días donde se realizan proyectos. En abril de 2023 recibí la notificación de que fui seleccionado como estudiante.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/6d7d5d23-a8d3-4d08-8481-afe313b720fb_42_logo.svg",
-            "alt": "42_logo.svg"
-          }
+          "description": "En marzo de 2023 me presenté a dos pruebas de acceso: la primera online y la segunda presencial y conocida como Piscina con una duración de 26 días donde se realizan proyectos. En abril de 2023 recibí la notificación de que fui seleccionado como estudiante."
         },
         "linkedCompetences": [
           {
@@ -183,11 +185,7 @@
         "startDate": "2021-09-01",
         "institution": {
           "name": "Universidad de Málaga",
-          "description": "Debido a mi interés en el sector tecnológico, opté por introducirme en esta rama de Ingeniería de Telecomunicaciones, donde he aprendido lógica matemática y conceptos de señales.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/8f5b0fb6-21eb-44ae-8c9f-372451f019dc_unnamed.jpg",
-            "alt": "unnamed.jpg"
-          }
+          "description": "Debido a mi interés en el sector tecnológico, opté por introducirme en esta rama de Ingeniería de Telecomunicaciones, donde he aprendido lógica matemática y conceptos de señales."
         },
         "linkedCompetences": [
           {
@@ -232,10 +230,6 @@
         {
           "URL": "https://www.linkedin.com/in/ribanab/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://github.com/SrRecursive",
-          "type": "other"
         }
       ],
       "contactMails": [
