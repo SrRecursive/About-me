@@ -36,14 +36,14 @@
     "projects": [
       {
         "details": {
-          "name": "MiniProjects",
-          "URL": "https://github.com/SrRecursive/ForFun"
+          "name": "BFL",
+          "URL": "https://github.com/SrRecursive/BFL"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2023-05-01",
+            "startDate": "2023-10-01",
             "competences": [
               {
                 "name": "C",
@@ -197,13 +197,14 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Ingeniería Telemática",
         "startDate": "2021-09-01",
         "institution": {
           "name": "Universidad de Málaga",
           "description": "Debido a mi interés en el sector tecnológico, opté por introducirme en esta rama de Ingeniería de Telecomunicaciones, donde he aprendido lógica matemática y conceptos de señales."
         },
+        "finishDate": "2023-06-01",
         "linkedCompetences": [
           {
             "name": "C",
@@ -332,7 +333,7 @@
         "name": "42 Cursus"
       },
       {
-        "name": "MiniProjects"
+        "name": "BFL"
       }
     ]
   }
