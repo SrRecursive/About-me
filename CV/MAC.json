@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -23,7 +23,11 @@
     },
     "relevantLinks": [
       {
-        "type": "other",
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ribanab/"
+      },
+      {
+        "type": "github",
         "URL": "https://github.com/SrRecursive"
       }
     ]
@@ -90,14 +94,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "TL",
+        "fullName": "Tagalog",
         "level": "Limited working proficiency"
       }
     ],
@@ -174,6 +181,10 @@
           },
           {
             "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
             "type": "technology"
           }
         ]
