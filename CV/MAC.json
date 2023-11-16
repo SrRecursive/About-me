@@ -162,6 +162,12 @@
           "name": "Notion",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
