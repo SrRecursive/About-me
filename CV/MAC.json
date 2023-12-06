@@ -307,10 +307,6 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Adobe Photoshop",
-        "type": "technology"
-      },
-      {
         "name": "C",
         "type": "technology"
       },
@@ -324,6 +320,10 @@
       },
       {
         "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
         "type": "technology"
       }
     ],
