@@ -64,7 +64,7 @@
       {
         "details": {
           "name": "42 Cursus",
-          "URL": "https://github.com/SrRecursive/42Malaga"
+          "URL": "https://github.com/SrVariable/42Malaga"
         },
         "type": "sideProject",
         "roles": [
@@ -72,6 +72,10 @@
             "name": "Developer",
             "startDate": "2023-04-01",
             "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
               {
                 "name": "C",
                 "type": "technology"
