@@ -46,11 +46,11 @@
             "startDate": "2023-10-01",
             "competences": [
               {
-                "name": "C",
+                "name": "Bash",
                 "type": "technology"
               },
               {
-                "name": "C++",
+                "name": "C",
                 "type": "technology"
               },
               {
