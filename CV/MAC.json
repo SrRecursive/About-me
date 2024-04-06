@@ -200,31 +200,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Ingeniería Telemática",
-        "startDate": "2021-09-01",
-        "institution": {
-          "name": "Universidad de Málaga",
-          "description": "Debido a mi interés en el sector tecnológico, opté por introducirme en esta rama de Ingeniería de Telecomunicaciones, donde he aprendido lógica matemática y conceptos de señales."
-        },
-        "finishDate": "2023-06-01",
-        "linkedCompetences": [
-          {
-            "name": "C",
-            "type": "technology"
-          },
-          {
-            "name": "C++",
-            "type": "technology"
-          },
-          {
-            "name": "Matlab",
-            "type": "technology"
-          }
-        ]
       }
     ],
     "softSkills": [
@@ -262,12 +237,6 @@
       ],
       "contactMails": [
         "rojohnibana@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "611050232",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
