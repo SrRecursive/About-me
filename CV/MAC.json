@@ -36,6 +36,29 @@
     "projects": [
       {
         "details": {
+          "name": "GOL",
+          "URL": "https://github.com/SrVariable/GOL"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-05-01",
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "Makefile",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "BFL",
           "URL": "https://github.com/SrVariable/BFL"
         },
@@ -309,6 +332,9 @@
       },
       {
         "name": "BFL"
+      },
+      {
+        "name": "GOL"
       }
     ]
   }
